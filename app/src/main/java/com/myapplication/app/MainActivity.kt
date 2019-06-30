@@ -1,16 +1,11 @@
-package com.example.myapplication
+package com.myapplication.app
 
-import android.graphics.Color
 import android.os.Bundle
-import com.google.android.material.snackbar.Snackbar
 import androidx.appcompat.app.AppCompatActivity;
-import android.view.Menu
-import android.view.MenuItem
 import android.view.View
 import android.widget.EditText
 import android.widget.TextView
 
-import kotlinx.android.synthetic.main.activity_main.*
 import kotlin.text.Typography.euro
 
 class MainActivity : AppCompatActivity() {
